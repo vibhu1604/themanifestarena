@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/themanifestarena/static/css/main.bfa09435.css",
+    "main.js": "/themanifestarena/static/js/main.3c16c12e.js",
+    "static/media/profile.jpg": "/themanifestarena/static/media/profile.e6216017c332c556a471.jpg",
+    "static/media/Vibhuti-Gohil-Web-Designer-CV.pdf": "/themanifestarena/static/media/Vibhuti-Gohil-Web-Designer-CV.959f50cd710d85de83d7.pdf",
+    "static/media/about.jpg": "/themanifestarena/static/media/about.c6da98b731740bd6a402.jpg",
+    "index.html": "/themanifestarena/index.html",
+    "main.bfa09435.css.map": "/themanifestarena/static/css/main.bfa09435.css.map",
+    "main.3c16c12e.js.map": "/themanifestarena/static/js/main.3c16c12e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfa09435.css",
+    "static/js/main.3c16c12e.js"
+  ]
+}
